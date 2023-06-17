@@ -33,5 +33,9 @@ public class  Test1 {
         
        
 	}
+@test 
+public void closebrowser() {
+driver.qujit();
+}
 
 }
